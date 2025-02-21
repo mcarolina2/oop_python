@@ -71,6 +71,3 @@ class Veiculo:
 
 civic = Veiculo('preto','honda', 'mcf2f86')
 print(f'a cor do civic é {civic.getCor()}')
-#Qual é o método construtor da classe?
-#Que métodos comparam as duas classes?
-#Quais são métodos assessores? E modificadores?
