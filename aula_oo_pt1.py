@@ -8,11 +8,6 @@ class Dog: # exemplo 1
     def __init__(self, nome, idade): # exemplo de atributo de instância
         self.nome = nome
         self.idade = idade
-        
-        
-        
-        
-        
 
 # ATIVIDADE: 
 #Crie uma classe produto com os atributos nome, categoria, preço e quantidade. A seguir, implemente os métodos get e set de cada atributo. Teste a classe criando dois objetos e sugira um novo método que seja útil para a classe.
